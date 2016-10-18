@@ -9,6 +9,7 @@ nnoremap <S-Tab> :bprevious<CR>
 set number
 set clipboard=unnamed
 set mouse=a
+set ttymouse=sgr
 set nofoldenable
 let g:jsx_ext_required = 0
 let g:NERDTreeWinPos = "left"

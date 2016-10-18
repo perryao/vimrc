@@ -13,3 +13,12 @@
 [submodule "sources_non_forked/vim-javascript"]
 	path = sources_non_forked/vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
+[submodule "sources_non_forked/kotlin-vim"]
+	path = sources_non_forked/kotlin-vim
+	url = https://github.com/udalov/kotlin-vim
+[submodule "sources_non_forked/vim-jsx"]
+	path = sources_non_forked/vim-jsx
+	url = https://github.com/mxw/vim-jsx.git
+[submodule "sources_non_forked/vim-markdown.vim"]
+	path = sources_non_forked/vim-markdown.vim
+	url = https://github.com/plasticboy/vim-markdown.git
