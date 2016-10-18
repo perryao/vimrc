@@ -22,3 +22,9 @@
 [submodule "sources_non_forked/vim-markdown.vim"]
 	path = sources_non_forked/vim-markdown.vim
 	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "sources_non_forked/vim-markdown-preview.vim"]
+	path = sources_non_forked/vim-markdown-preview.vim
+	url = https://github.com/JamshedVesuna/vim-markdown-preview.git
+[submodule "sources_non_forked/vim-instant-markdown.vim"]
+	path = sources_non_forked/vim-instant-markdown.vim
+	url = https://github.com/suan/vim-instant-markdown.git
